@@ -17,8 +17,14 @@
 **粗體**
 ~~刪減~~
 
-:smirk:
-:+1:
-:-1:
+看屁看:smirk:
+NMSL:+1:
+我就爛:-1:
 
 ![NKFUST]( nkfust.jpg "第一科大")
+
+
+|Left | Center | Right|
+|:----|:------:|-------:|
+|1st  | 1st    | 1st    |
+|2nd  | 2nd    | 2nd    |
