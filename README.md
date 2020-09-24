@@ -19,5 +19,6 @@
 
 :smirk:
 :+1:
+:-1:
 
 ![NKFUST]( nkfust.jpg "第一科大")
