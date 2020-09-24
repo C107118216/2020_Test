@@ -21,7 +21,7 @@
 NMSL:+1:
 我就爛:-1:
 
-![NKFUST]( nkfust.jpg "第一科大")
+![NKFUST]( 102506.jpg "第一科大")
 
 
 |Left | Center | Right|
