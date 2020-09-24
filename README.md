@@ -19,7 +19,7 @@ _下畫線_
 ~~刪減~~
 
 看屁看:smirk:
-NMSL:+1:
+Nihao:+1:
 我就爛:-1:
 
 ![NKFUST]( 102506.jpg "第一科大")
@@ -30,6 +30,6 @@ NMSL:+1:
 |1st  | 1st    | 1st    |
 |2nd  | 2nd    | 2nd    |
 
-[![Everthing Is AWESOME](https://img.youtube.com/vi/StTqXEQ21-Y/0.jpg)](htpps://www.youtube.com/watch?v=StTqXEQ21-Y "Everything Is AWESOME")
+[![Everthing Is AWESOME](https://img.youtube.com/vi/StTqXEQ21-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ21-Y "Everything Is AWESOME")
 [![Docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)l(https://img.youtube.com/vi/sSm2dRarhPo "title")]
 
